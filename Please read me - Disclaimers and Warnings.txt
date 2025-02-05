@@ -1,0 +1,21 @@
+***THIS MOD ONLY WORKS WITH THE NA/US VERSION OF F-ZERO GX***
+Due to the hurdles required to get all of the changes to work properly on the other versions of this game, this mod only works properly on the NTSC-U version of the game. I apologize for any inconveniences this may have on you. Maybe down the road I can add support for the other versions of the game. 
+
+***Legends Unleashed potential issues and workarounds***
+When playing the Legends Unleashed edition of the mod, the game might get stuck loading when trying to play the GP mode. Or when you attempt launch the game but it never loads. Or it just might get stuck in a black screen when backing out from the machine select screen.
+
+If the game does not load when launching it, you will have to load the game without a memory card inserted. Once it loads, insert the card and load the data in the Options menu.
+
+After doing a GP mode run with the Legends edition, a precautionary file load from the Options menu may prevent the issue of GP mode not loading.
+
+Unfortunately, this means for players who want to play the Legends Unleashed version via Nintendont, I recommend using a memory card if this issue still exists.
+
+This issue might be mitigated if you reset your Time Attack records on some/all tracks. Avoiding the Records section of the game might delay the issue from occurring.
+
+The issue can manifest in the form of visual bugs in parts of the menu. This doesn't appear to have any impact when playing the game.
+
+***I strongly recommend to NOT have the Story Mode courses replace a different course than the one it is currently replacing. Doing this properly involves a number of other adjustments that requires deep knowledge of GX modding.***
+
+***About the "Unchanged camera" version of the cardata file***
+This version of the cardata file removes the unique Drift Camera of Wild Goose, White Cat and Wonder Wasp. However it still tones down Red Gazelle's funky camera because it simply is too much to handle on some courses. Sorry to the folks who enjoyed that.
+

@@ -1,0 +1,4 @@
+Written by supersonic. Modified by AKC12
+Changing the game ID will mess with your saves, as well as any cheatcodes files in Dolphin / Nintendont.
+
+The ID I've chosen here is "UFZE01", however I'm unsure if this will mess with games from different regions (E = US/NA, P = PAL, J = Japan). If you want to be safe, hex edit the ISO.hdr file to match your game's region (so UFZP01 for PAL as an example). This will make the prepackaged save files here unusable however, so you'll have to make your own.

@@ -1,0 +1,12 @@
+- Dolphin
+Use Dolphin's Memcard Manager (under tools) to import the .gci file into one of your memory cards.
+
+- Nintendont
+Copy the GFZE.raw or UFZE.raw file into the "saves" folder in your USB storage or SD card. 
+Written by supersanic
+
+If you replace the ISO.hdr with the one that I provide, you must use the save file with "UFZE" in the filename.
+Otherwise use the save file with "GFZE" in the file name
+
+Renaming Game Name
+You can hex edit the GCI save file to edit the game name. I have already re-named it to F-Zero GX Unleashed v5.0

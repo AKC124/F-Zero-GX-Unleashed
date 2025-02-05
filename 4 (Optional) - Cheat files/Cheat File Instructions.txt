@@ -1,0 +1,70 @@
+***These cheats will also work with the base game of GX. Also with other rebalance mods as long you do not adjust their GameIDs***
+
+***Dolphin Instructions***
+Open the text file within the appropriate region folder for your ROM.
+Copy one of the codes you want to bring over to Dolphin
+On Dolphin, right click F-Zero GX Unleashed -> Properties -> Gecko Codes
+Click on Add New Code. Paste in the code, give it a name and click on Save
+
+Alternatively you can copy and paste the code to the .ini file located in ...\Dolphin Emulator\GameSettings
+
+I will also provide a copy of the .ini file. Place the file in the GameSettings folder or copy and paste its contents to the existing .ini folder.
+
+***Nintendont Instructions***
+Open up Codemanager
+File-> Open Text file
+Select the text file with the game ID of the GX Unleashed ROM that you want to prepare the cheats for
+Select the codes you want enabled
+Click on Export to GCT to save the cheat file as a .gct file
+Copy/Move the GCT file to the codes folder in your SD/USB drive.
+Make sure to enable cheats before you launch the game on Nintendont
+
+***Nintendont with GameID starting with 'U'***
+I have also provided a copy of the text file with the GameIDs that start with U if you have decided to utilize the GameID that starts with U.
+Additionally, you will need to replace the "boot.dol" file in the "apps\nintendont" folder in your SD card as a modification to the file is needed to support these modified GameIDs.
+A copy of the boot.dol file is in the "Nintedont-Support for cheats with alternate Game ID" folder
+
+Casual+ GP Mode
+This set of GP difficulty modes are meant for newer/casual players
+who want an even more difficult challenge while still being
+reasonable to conquer with some practice and good execution. In
+all difficulties, there is no AI rubberbanding when you are ahead.
+Novice: AI boosts at the same frequency as base game Standard
+difficulty.
+Standard: AI boosts at a slightly higher frequency compared to
+base game Expert.
+Expert: AI boosts noticeably more often compared to base game
+Master difficulty
+Master: AI will always boost continuously, without any delay
+between boosts, until they are low in energy.
+
+Max Speed Specialist GP Mode
+This set of GP difficulty modes are meant for experienced Max
+Speed players who have at least decent proficiency with most if
+not all advanced techniques.
+AI do not spin attack in any of these difficulties, which puts a
+heavier emphasis on skill.
+In every difficulty in this set, the AI will always boost without
+stopping until they run low on energy.
+Highly recommended to pair this with the Enable Restore cheat so
+you and all AI always finish the race. set, except they do not spin
+attack.
+Novice: Same exact AI modifiers as Master difficulty in the Casual
++. Max throttle input = 1.00
+Standard: AI has a maximum throttle input of 1.08
+Expert: AI has a maximum throttle input of 1.16
+Master: AI has a maximum throttle input of 1.25
+
+Snaking Specialist GP Mode
+This set of GP difficulty modes are meant for aspiring and
+experienced snaking players.
+AI do not spin attack in any of these difficulties, which puts a
+heavier emphasis on skill.
+In every difficulty in this set, the AI will always boost without
+stopping until they run low on energy.
+Highly recommended to pair this with the Enable Restore cheat so
+you and all AI always finish the race.
+Novice: AI has a maximum throttle input of 1.3
+Standard: AI has a maximum throttle input of 1.7
+Expert: AI has a maximum throttle input of 2.1
+Master: AI has a maximum throttle input of 2.5

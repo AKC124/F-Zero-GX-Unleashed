@@ -1,0 +1,45 @@
+Thank you for downloading this mod! This document will help you get started with setting up the mod and provide essential links.
+
+Basic instructions for applying the mod:
+Start from the top folder and go down. The first folder is required for any version of the mod, so go ahead and copy and paste the contents to the root folder
+
+For folders 2A through 2D, and any folder with a letter immediately following the number, that means you must choose only one of those folders. These are the main four versions of the mod - Standard, Standard with Story Courses, Legends, Legends with Story Courses.
+
+For each ROM file, you can only copy over files from one of these folders. If you wish to play the base 26 courses and the 4 bonus story courses with all of the machines across the standard and Legends versions of the mod, that will require four you to create four ROMs since we currently are working on expanding the stage and machine slots.
+
+Within each of those folders are additional numbered folders. Start from the top, and for any set of folders that has a number and letter (1A, 1B, etc), you must only copy over the contents of one of those folders. These are different options that you can apply to your mod, such as the level of staff ghost.
+
+After you finish copying over the folders and files from main folder containing the version of the mod you want to apply, there are a few more optional items such as changing the game ID, save files and gecko cheats. The cheats primarily adjust the difficulty of the AI and you can also enable restore in any mode.
+
+Important Links
+Video on how to apply the mod - https://www.youtube.com/watch?v=ndUfCMR750c
+GX Unleashed Overview - https://docs.google.com/document/d/1z_58WwUv6dZdrlxKHRT8U10BfyHp53W9crvvVlJqQq4/edit?usp=drive_link
+Stats spreadsheet - https://docs.google.com/spreadsheets/d/1x3hhb1ngVAuTR2qJURcHX-f-D0vsH3EWSMnsOqv5jFA/edit?gid=1317898543#gid=1317898543
+Time Attack+Story Mode Leaderboard - https://docs.google.com/spreadsheets/d/1aifsfRJyq9Hv0pisdUQow6xmLpMa0FkVrRy4z7R_w88/edit?usp=drive_link
+Machines vs Staff Ghosts (Machine Records) - https://drive.google.com/drive/folders/1zXTKvImdK2D5jgHqbVlDQmSA-I7hs_uH?usp=drive_link
+GX Unleashed Document Hub - https://drive.google.com/drive/u/0/folders/1pKMs2ojNZMISoyr5cHq2uuh8uBEFQ3Mb
+Version 5.0 Changelist - https://docs.google.com/document/d/1nkZA6p9Qnb27euyH_PXd2Jq-etSJIfKc4HuYmlM00nI
+Past change lists - https://drive.google.com/drive/u/0/folders/1WvO4kXg9oAvBY9n-zphPimSIpe7PtPTN
+
+Link to the Official GX Unleashed Discord server! - https://discord.gg/AzjuzQtJ3c
+
+File contents explanation
+\&&systemdata	- ISO.hdr allows you to change the game ID and game title. If you want, hex edit the file to change the ID to whatever else you want. If you do that then none of the save files in the save files folder will work as is.
+\bg (story version only)	- Applies the correct background to the chapter 8 course
+\bmp_e	- Menu textures. Adv & advgc = title screen, sel = main menu borders, gra = grand prix splash screen, rep = replay logo. Also changes machine logo and pilot portraits for the Legends exclusive machines. Also adjusted in-race textures like the color of the speedometer
+\chara  - Changess the character portrait that is displayed on the left side during a race with the Climax drivers
+\enemy_line - line__ updates the Machine grades, settings graph of non-custom machines, stats of AI machines in story mode, updates the course, machine and pilot names in game, removes the 9999 speedcap, adjusts dash plate boost duration formula and adjusts booster energy consumption rate
+\game	- cardata.lz holds all the stat mods. Read the .txt file in there.
+\init	- Sel is the main menu background
+\movie	- Contains the story mode and character cutscenes/videos. Did a little something to free up some space...
+\snd   - This contains a new main menu song and other song replacements spread throughout the game. Made some songs completely silent to free up some space
+\staff_ghost   - This contains the new staff ghosts. Read the .txt file in there
+\stage (story version only)	- This contains the story mode courses
+\vehicle	-Changes to the booster fire color and size of the original machines
+\vehicle_parts	-Changes to the booster fire color and size of the custom booster parts
+
+fze.replay.rel and fze.sel.rel	- This changes the text that scrolls on the top. Replay replaces the text in the Replay menu while sel replaces the next in the initial Main Menu screen.
+fze.profile  - This adjusts the text in the Pilots profile section. I urge you to check it out at least once as there is useful information of the machines there.
+opening   -This adjusts the image banner, game title and game description shown in the Gamecube memory card manager and in Dolphin
+
+Note about &&systemdata: Replacing this file will allow you to make a save file seperate from the base F-Zero GX in your physical memory card. You may not replace it if you don't mind using the same save file between both F-Zero GX and this mod. However replays saved from one WILL NOT work in the other.
