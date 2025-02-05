@@ -1,0 +1,9 @@
+120,	90,	24,	0,	Here, this is your share.*
+120,	90,	24,	1,	Take it.*
+210,	90,	24,	0,	"Once again, Black Shadow is running*
+210,	90,	24,	1,	 riot in the Lightning Area."*
+300,	80,	24,	0,	"All citizens are advised*
+300,	80,	24,	1,	 to evacuate immediately."*
+390,	110,	24,	0,	"We repeat. All citizens are advised*
+390,	110,	24,	1,	 to evacuate immediately..."*
+-1,	-1,	0,	0,
