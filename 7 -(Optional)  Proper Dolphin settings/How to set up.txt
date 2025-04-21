@@ -1,0 +1,3 @@
+If game ID is unmodified, copy over GFZ.
+If modified so it starts with a U, copy over UFZ
+Place the file to '...\dolphin-[build_number]\Dolphin-x64\Sys\GameSettings'
